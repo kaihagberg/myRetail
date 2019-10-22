@@ -1,8 +1,7 @@
 # myRetail - Product API
 
 ## Setup
-
-###Dependencies
+### Dependencies
 
 #### *Java*
 Requires Java 8 or later
@@ -37,6 +36,7 @@ appending one of the following TCIN/IDs to the end of the url:
 ## Tests
 
 To run tests `sh gradlew test`  
-Although this does not provide much output it should show 'BUILD SUCCESSFUL' if tests are
+
+*Although this does not provide much output it should show 'BUILD SUCCESSFUL' if tests are
 passing and requires at least one run of the application beforehand in order to populate the 
-database.
+database.*
